@@ -1,0 +1,52 @@
+\documentclass[paper=a4, fontsize=11pt]{scrartcl} % A4 paper and 11pt font size
+
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+%\usepackage{fourier} % Use the Adobe Utopia font for the document - comment this line to return to the LaTeX default
+\usepackage{pdfpages}
+\usepackage[english]{babel} % English language/hyphenation
+\usepackage{amsmath,amsfonts,amsthm} % Math packages
+%\usepackage{sectsty} % Allows customizing section commands
+\usepackage{blindtext}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{Images/}}
+%\allsectionsfont{\left\normalfont\scshape} % Make all sections centered, the default font and small caps
+%\usepackage{fancyhdr} % Custom headers and footers
+%\pagestyle{fancyplain} % Makes all pages in the document conform to the custom headers and footers
+%\fancyhead{} % No page header - if you want one, create it in the same way as the footers below
+%\fancyfoot[L]{} % Empty left footer
+%\fancyfoot[C]{\thepage} % put page number in center footer
+%\fancyfoot[C]{} % Empty right footer
+%\renewcommand{\headrulewidth}{0pt} % Remove header underlines
+%\renewcommand{\footrulewidth}{0pt} % Remove footer underlines
+\setlength{\headheight}{0pt} % Customize the height of the header
+
+\numberwithin{equation}{section} % Number equations within sections (i.e. 1.1, 1.2, 2.1, 2.2 instead of 1, 2, 3, 4)
+\numberwithin{figure}{section} % Number figures within sections (i.e. 1.1, 1.2, 2.1, 2.2 instead of 1, 2, 3, 4)
+\numberwithin{table}{section} % Number tables within sections (i.e. 1.1, 1.2, 2.1, 2.2 instead of 1, 2, 3, 4)
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs - comment this line for an assignment with lots of text
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+\title{	
+\normalfont \normalsize 
+\textsc{EENG 517}\\ 
+\huge Project \\ % The assignment title
+}
+
+\author{Dana Martin} % Your name
+
+\date{\normalsize Due: 03/03/16}
+
+\begin{document}
+
+\maketitle % Print the title
+
+\section*{State Space Representation}
+ \begin{align}
+ \begin{bmatrix}\dot{x_1}\\\dot{x_2}\\\dot{x_3}\\\dot{x_4}\end{bmatrix}= \begin{bmatrix}0 && 1 && 0 && 0\\0 && \frac{C_{D,F}\frac{1}{2}\rho_{air}A_F}{M_F+\delta m}&& 0 && 0\\0 && 0 && 0 && 1\\0 && 0 && 0 && \frac{C_{D,F}\frac{1}{2}\rho_{air} 
+ \end{align}
+
+\end{document}
