@@ -1,0 +1,11 @@
+slprj/
+*.mex*
+**/*.mat
+!**/APC_kopt.mat
+!**/dK2_LPV.mat
+!**/dK2_LPV_2P.mat
+bin_backup8.12/
+bin*/
+!**/OpPoints_Summ.mat
+SaveData/*.mat
+SaveData/*.out
