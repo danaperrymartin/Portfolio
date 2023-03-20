@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22eceefc-c968-466f-b58f-b10456522ddb}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>Train_FasterMaskRCNN.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="fastrcnn\BoundingBoxCheck.py" />
+    <Compile Include="fastrcnn\ImageManipulation.py" />
+    <Compile Include="fastrcnn\model_prediction.py" />
+    <Compile Include="fastrcnn\MyLabelBinarizer.py" />
+    <Compile Include="fastrcnn\network_model.py" />
+    <Compile Include="mrcnn\config.py" />
+    <Compile Include="mrcnn\model.py" />
+    <Compile Include="mrcnn\parallel_model.py" />
+    <Compile Include="mrcnn\utils.py" />
+    <Compile Include="mrcnn\visualize.py" />
+    <Compile Include="mrcnn\__init__.py" />
+    <Compile Include="Train_FasterMaskRCNN.py" />
+    <Compile Include="Train_FastRCNNMain.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="test_images\ChooChoo\TestImg1.jpg" />
+    <Content Include="test_images\ChooChoo\TestImg2.JPG" />
+    <Content Include="test_images\ChooChoo\TestImg3.JPG" />
+    <Content Include="train_images\ChooChoo_Spring\Spring00.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring01.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring02.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring03.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring04.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring05.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring06.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring07.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring08.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring09.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring10.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring11.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring12.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring13.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring14.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring15.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring16.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring17.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring18.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring19.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring20.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring21.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring22.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring23.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring24.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring25.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring26.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring27.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring28.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring29.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring30.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring31.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring32.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring33.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring34.jpg" />
+    <Content Include="train_images\ChooChoo_Spring\Spring35.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck00.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck01.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck02.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck03.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck04.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck05.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck06.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck07.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck08.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck09.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck10.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck11.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck12.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck13.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck14.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck15.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck16.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck17.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck18.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck19.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck20.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck21.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck22.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck23.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck24.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck25.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck26.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck27.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck28.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck29.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck30.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck31.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck32.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck33.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck34.jpg" />
+    <Content Include="train_images\ChooChoo_Truck\Truck35.jpg" />
+    <Content Include="train_images\COT\00.jpg" />
+    <Content Include="train_images\COT\01.jpg" />
+    <Content Include="train_images\COT\02.jpg" />
+    <Content Include="train_images\COT\03.jpg" />
+    <Content Include="train_images\COT\04.jpg" />
+    <Content Include="train_images\COT\05.jpg" />
+    <Content Include="train_images\COT\06.jpg" />
+    <Content Include="train_images\COT\07.jpg" />
+    <Content Include="train_images\COT\08.jpg" />
+    <Content Include="train_images\COT\09.jpg" />
+    <Content Include="train_images\COT\10.jpg" />
+    <Content Include="train_images\COT\100.jpg" />
+    <Content Include="train_images\COT\101.jpg" />
+    <Content Include="train_images\COT\102.jpg" />
+    <Content Include="train_images\COT\103.jpg" />
+    <Content Include="train_images\COT\104.jpg" />
+    <Content Include="train_images\COT\105.jpg" />
+    <Content Include="train_images\COT\106.jpg" />
+    <Content Include="train_images\COT\107.jpg" />
+    <Content Include="train_images\COT\108.jpg" />
+    <Content Include="train_images\COT\109.jpg" />
+    <Content Include="train_images\COT\11.jpg" />
+    <Content Include="train_images\COT\110.jpg" />
+    <Content Include="train_images\COT\111.jpg" />
+    <Content Include="train_images\COT\112.jpg" />
+    <Content Include="train_images\COT\113.jpg" />
+    <Content Include="train_images\COT\114.jpg" />
+    <Content Include="train_images\COT\115.jpg" />
+    <Content Include="train_images\COT\116.jpg" />
+    <Content Include="train_images\COT\117.jpg" />
+    <Content Include="train_images\COT\118.jpg" />
+    <Content Include="train_images\COT\119.jpg" />
+    <Content Include="train_images\COT\12.jpg" />
+    <Content Include="train_images\COT\120.jpg" />
+    <Content Include="train_images\COT\121.jpg" />
+    <Content Include="train_images\COT\13.jpg" />
+    <Content Include="train_images\COT\14.jpg" />
+    <Content Include="train_images\COT\15.jpg" />
+    <Content Include="train_images\COT\16.jpg" />
+    <Content Include="train_images\COT\17.jpg" />
+    <Content Include="train_images\COT\18.jpg" />
+    <Content Include="train_images\COT\19.jpg" />
+    <Content Include="train_images\COT\20.jpg" />
+    <Content Include="train_images\COT\21.jpg" />
+    <Content Include="train_images\COT\22.jpg" />
+    <Content Include="train_images\COT\23.jpg" />
+    <Content Include="train_images\COT\24.jpg" />
+    <Content Include="train_images\COT\25.jpg" />
+    <Content Include="train_images\COT\26.jpg" />
+    <Content Include="train_images\COT\27.jpg" />
+    <Content Include="train_images\COT\28.jpg" />
+    <Content Include="train_images\COT\29.jpg" />
+    <Content Include="train_images\COT\30.jpg" />
+    <Content Include="train_images\COT\31.jpg" />
+    <Content Include="train_images\COT\32.jpg" />
+    <Content Include="train_images\COT\33.jpg" />
+    <Content Include="train_images\COT\34.jpg" />
+    <Content Include="train_images\COT\35.jpg" />
+    <Content Include="train_images\COT\36.jpg" />
+    <Content Include="train_images\COT\37.jpg" />
+    <Content Include="train_images\COT\38.jpg" />
+    <Content Include="train_images\COT\39.jpg" />
+    <Content Include="train_images\COT\40.jpg" />
+    <Content Include="train_images\COT\41.jpg" />
+    <Content Include="train_images\COT\42.jpg" />
+    <Content Include="train_images\COT\43.jpg" />
+    <Content Include="train_images\COT\44.jpg" />
+    <Content Include="train_images\COT\45.jpg" />
+    <Content Include="train_images\COT\46.jpg" />
+    <Content Include="train_images\COT\47.jpg" />
+    <Content Include="train_images\COT\48.jpg" />
+    <Content Include="train_images\COT\49.jpg" />
+    <Content Include="train_images\COT\50.jpg" />
+    <Content Include="train_images\COT\51.jpg" />
+    <Content Include="train_images\COT\52.jpg" />
+    <Content Include="train_images\COT\53.jpg" />
+    <Content Include="train_images\COT\54.jpg" />
+    <Content Include="train_images\COT\55.jpg" />
+    <Content Include="train_images\COT\56.jpg" />
+    <Content Include="train_images\COT\57.jpg" />
+    <Content Include="train_images\COT\58.jpg" />
+    <Content Include="train_images\COT\59.jpg" />
+    <Content Include="train_images\COT\60.jpg" />
+    <Content Include="train_images\COT\61.jpg" />
+    <Content Include="train_images\COT\62.jpg" />
+    <Content Include="train_images\COT\63.jpg" />
+    <Content Include="train_images\COT\64.jpg" />
+    <Content Include="train_images\COT\65.jpg" />
+    <Content Include="train_images\COT\66.jpg" />
+    <Content Include="train_images\COT\67.jpg" />
+    <Content Include="train_images\COT\68.jpg" />
+    <Content Include="train_images\COT\69.jpg" />
+    <Content Include="train_images\COT\70.jpg" />
+    <Content Include="train_images\COT\71.jpg" />
+    <Content Include="train_images\COT\72.jpg" />
+    <Content Include="train_images\COT\73.jpg" />
+    <Content Include="train_images\COT\74.jpg" />
+    <Content Include="train_images\COT\75.jpg" />
+    <Content Include="train_images\COT\76.jpg" />
+    <Content Include="train_images\COT\77.jpg" />
+    <Content Include="train_images\COT\78.jpg" />
+    <Content Include="train_images\COT\79.jpg" />
+    <Content Include="train_images\COT\80.jpg" />
+    <Content Include="train_images\COT\81.jpg" />
+    <Content Include="train_images\COT\82.jpg" />
+    <Content Include="train_images\COT\83.jpg" />
+    <Content Include="train_images\COT\84.jpg" />
+    <Content Include="train_images\COT\85.jpg" />
+    <Content Include="train_images\COT\86.jpg" />
+    <Content Include="train_images\COT\87.jpg" />
+    <Content Include="train_images\COT\88.jpg" />
+    <Content Include="train_images\COT\89.jpg" />
+    <Content Include="train_images\COT\90.jpg" />
+    <Content Include="train_images\COT\91.jpg" />
+    <Content Include="train_images\COT\92.jpg" />
+    <Content Include="train_images\COT\93.jpg" />
+    <Content Include="train_images\COT\94.jpg" />
+    <Content Include="train_images\COT\95.jpg" />
+    <Content Include="train_images\COT\96.jpg" />
+    <Content Include="train_images\COT\97.jpg" />
+    <Content Include="train_images\COT\98.jpg" />
+    <Content Include="train_images\COT\99.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="fastrcnn" />
+    <Folder Include="mrcnn" />
+    <Folder Include="test_images\" />
+    <Folder Include="test_images\ChooChoo" />
+    <Folder Include="train_images\" />
+    <Folder Include="train_images\ChooChoo_Spring" />
+    <Folder Include="train_images\ChooChoo_Truck" />
+    <Folder Include="train_images\COT" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

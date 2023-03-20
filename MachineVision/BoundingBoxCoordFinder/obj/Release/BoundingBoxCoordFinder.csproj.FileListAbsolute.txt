@@ -1,0 +1,13 @@
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Release\BoundingBoxCoordFinder.exe.config
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Release\BoundingBoxCoordFinder.exe
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Release\BoundingBoxCoordFinder.pdb
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Release\System.Drawing.Common.dll
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.csproj.AssemblyReference.cache
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.Form1.resources
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.Properties.Resources.resources
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.csproj.GenerateResource.cache
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.csproj.CoreCompileInputs.cache
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.csproj.CopyComplete
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.exe
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.pdb
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Release\BoundingBoxCoordFinder.DateTimeSearchForm.resources

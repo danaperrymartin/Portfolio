@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="HelperFunctions">
+      <UniqueIdentifier>{ef33f894-206a-4db5-84ec-2e687b7660ff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SpringFinder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\imageprocessing.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\nonmaximalsuppression.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\plotfeatures.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\sort.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\writetextfile.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\imagesegmentation.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\pooling.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\onnxmodelscorer.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\texturehelperfunctions.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HelperFunctions\frequencyfiltering.cpp">
+      <Filter>HelperFunctions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HelperFunctions\imageprocessing.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\imagesegmentation.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\nonmaximalsuppression.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\onnxmodelscorer.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\plotfeatures.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\sort.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\writetextfile.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\pooling.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\texturehelperfunctions.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\getopt.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="HelperFunctions\frequencyfiltering.h">
+      <Filter>HelperFunctions</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.AssemblyReference.cache
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.Form1.resources
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.Properties.Resources.resources
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.GenerateResource.cache
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.CoreCompileInputs.cache
+C:\Code Projects\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.exe.config
+C:\Code Projects\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.exe
+C:\Code Projects\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.pdb
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.exe
+C:\Code Projects\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.pdb
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.exe.config
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.exe
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.pdb
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.AssemblyReference.cache
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.Form1.resources
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.Properties.Resources.resources
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.GenerateResource.cache
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.CoreCompileInputs.cache
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.exe
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.pdb
+C:\Code Projects\Machine Vision\BoundingBoxCoordFinder\bin\Debug\System.Drawing.Common.dll
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.exe.config
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.exe
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Debug\BoundingBoxCoordFinder.pdb
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\bin\Debug\System.Drawing.Common.dll
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.AssemblyReference.cache
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.Form1.resources
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.Properties.Resources.resources
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.GenerateResource.cache
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.CoreCompileInputs.cache
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.exe
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.pdb
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.csproj.CopyComplete
+C:\CodeProjects\MachineVision\BoundingBoxCoordFinder\obj\Debug\BoundingBoxCoordFinder.DateTimeSearchForm.resources

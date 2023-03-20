@@ -1,0 +1,8 @@
+﻿  imageprocessing.cpp
+C:\CodeProjects\MachineVision\SpringFinder\SpringFinder\HelperFunctions\imageprocessing.cpp(88,71): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\CodeProjects\MachineVision\SpringFinder\SpringFinder\HelperFunctions\imageprocessing.cpp(44,16): warning C4101: 'minVal': unreferenced local variable
+  SpringFinder.vcxproj -> C:\CodeProjects\MachineVision\SpringFinder\x64\Debug\SpringFinder.exe

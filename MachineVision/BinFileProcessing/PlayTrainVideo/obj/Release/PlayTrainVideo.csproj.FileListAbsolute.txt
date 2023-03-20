@@ -1,0 +1,15 @@
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.Form1.resources
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.Properties.Resources.resources
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.csproj.GenerateResource.cache
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.csproj.CoreCompileInputs.cache
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.csproj.AssemblyReference.cache
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\PlayTrainVideo.exe.config
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\PlayTrainVideo.exe
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\PlayTrainVideo.pdb
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\CodeProjects\MachineVision\PlayTrainVideo\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.csproj.CopyComplete
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.exe
+C:\CodeProjects\MachineVision\PlayTrainVideo\obj\Release\PlayTrainVideo.pdb
