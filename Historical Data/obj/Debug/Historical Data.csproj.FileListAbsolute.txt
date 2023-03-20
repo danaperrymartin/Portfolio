@@ -1,0 +1,34 @@
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical_Data.Form1.resources
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical Data.csproj.GenerateResource.cache
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Historical Data.exe.config
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Historical Data.exe
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Historical Data.pdb
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.Modules.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.SQLite.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.Wpf.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.Dynamic.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.Scripting.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.Scripting.Metadata.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.WindowsAPICodePack.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Newtonsoft.Json.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\ScottPlot.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\ScottPlot.WinForms.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\System.Drawing.Common.dll
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.Modules.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.SQLite.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\IronPython.Wpf.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.Dynamic.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.Scripting.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.Scripting.Metadata.xml
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+Z:\Dana\Code Projects\Historical Data\bin\Debug\Newtonsoft.Json.xml
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical_Data.Properties.Resources.resources
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical Data.csproj.CoreCompileInputs.cache
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical Data.csproj.CopyComplete
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical Data.exe
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical Data.pdb
+Z:\Dana\Code Projects\Historical Data\obj\Debug\Historical Data.csproj.AssemblyReference.cache

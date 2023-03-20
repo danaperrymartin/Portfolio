@@ -1,0 +1,34 @@
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical Data.csproj.AssemblyReference.cache
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical_Data.Form1.resources
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical_Data.Properties.Resources.resources
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical Data.csproj.GenerateResource.cache
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical Data.csproj.CoreCompileInputs.cache
+Z:\Dana\Code Projects\Historical Data\bin\Release\Historical Data.exe.config
+Z:\Dana\Code Projects\Historical Data\bin\Release\Historical Data.exe
+Z:\Dana\Code Projects\Historical Data\bin\Release\Historical Data.pdb
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.Modules.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.SQLite.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.Wpf.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.Dynamic.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.Scripting.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.Scripting.Metadata.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.WindowsAPICodePack.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\Newtonsoft.Json.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\ScottPlot.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\ScottPlot.WinForms.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\System.Drawing.Common.dll
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.Modules.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.SQLite.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\IronPython.Wpf.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.Dynamic.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.Scripting.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.Scripting.Metadata.xml
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.WindowsAPICodePack.pdb
+Z:\Dana\Code Projects\Historical Data\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+Z:\Dana\Code Projects\Historical Data\bin\Release\Newtonsoft.Json.xml
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical Data.csproj.CopyComplete
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical Data.exe
+Z:\Dana\Code Projects\Historical Data\obj\Release\Historical Data.pdb
