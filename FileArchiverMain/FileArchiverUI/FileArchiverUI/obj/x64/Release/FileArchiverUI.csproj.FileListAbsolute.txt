@@ -1,0 +1,11 @@
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\bin\x64\Release\lib\FileArchiverLibrary.dll
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\bin\x64\Release\FileArchiverUI.exe.config
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\bin\x64\Release\FileArchiverUI.exe
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\bin\x64\Release\FileArchiverUI.pdb
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.csproj.AssemblyReference.cache
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.csproj.SuggestedBindingRedirects.cache
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.Properties.Resources.resources
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.csproj.GenerateResource.cache
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.csproj.CoreCompileInputs.cache
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.exe
+C:\CodeProjects\FileArchiverMain\FileArchiverUI_Archive\FileArchiverUI\obj\x64\Release\FileArchiverUI.pdb
