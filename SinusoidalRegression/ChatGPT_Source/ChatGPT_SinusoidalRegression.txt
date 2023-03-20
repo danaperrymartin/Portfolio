@@ -1,0 +1,25 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+double predict(double x, double a, double b, double c, double d) {
+    return a * sin(b * x + c) + d;
+}
+
+int main() {
+    double a, b, c, d;
+
+    // Initialize parameters
+    a = 1.0;
+    b = 0.1;
+    c = 0.0;
+    d = 0.0;
+
+    // Example input value
+    double x = 2.0;
+
+    cout << "Predicted value: " << predict(x, a, b, c, d) << endl;
+
+    return 0;
+}
