@@ -1,0 +1,6 @@
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClient\obj\Debug\TCPClient.frmMain.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClient\obj\Debug\TCPClientTest.Properties.Resources.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClient\obj\Debug\TCPClient.ucIPAddress.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\bin\Release\TCPClientTest.exe.config
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\bin\Release\TCPClientTest.exe
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\bin\Release\TCPClientTest.pdb
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientFTP.frmMain.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientTest.Properties.Resources.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientFTP.ucIPAddress.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientFTP.csproj.GenerateResource.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientFTP.csproj.CoreCompileInputs.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientTest.exe
+C:\CodeProjects\RemoteControl\FTP\v2\TCPClientFTP\obj\Release\TCPClientTest.pdb

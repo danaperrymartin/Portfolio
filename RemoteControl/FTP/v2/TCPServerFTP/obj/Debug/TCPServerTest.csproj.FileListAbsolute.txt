@@ -1,0 +1,30 @@
+C:\Code Projects\TCPServerTest\bin\Debug\TCPServerTest.exe.config
+C:\Code Projects\TCPServerTest\bin\Debug\TCPServerTest.exe
+C:\Code Projects\TCPServerTest\bin\Debug\TCPServerTest.pdb
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.frmMain.resources
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.Properties.Resources.resources
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.ucIPAddress.resources
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.csproj.GenerateResource.cache
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.csproj.CoreCompileInputs.cache
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.exe
+C:\Code Projects\TCPServerTest\obj\Debug\TCPServerTest.pdb
+C:\Code Projects\RemoteControl\brian\TCPServerTest\bin\Debug\TCPServerTest.exe.config
+C:\Code Projects\RemoteControl\brian\TCPServerTest\bin\Debug\TCPServerTest.exe
+C:\Code Projects\RemoteControl\brian\TCPServerTest\bin\Debug\TCPServerTest.pdb
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.frmMain.resources
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.Properties.Resources.resources
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.ucIPAddress.resources
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.csproj.GenerateResource.cache
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.csproj.CoreCompileInputs.cache
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.exe
+C:\Code Projects\RemoteControl\brian\TCPServerTest\obj\Debug\TCPServerTest.pdb
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\bin\Debug\TCPServerTest.exe.config
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\bin\Debug\TCPServerTest.exe
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\bin\Debug\TCPServerTest.pdb
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.frmMain.resources
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.Properties.Resources.resources
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.ucIPAddress.resources
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.csproj.GenerateResource.cache
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.csproj.CoreCompileInputs.cache
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.exe
+C:\CodeProjects\RemoteControl\FromBrian\TCPServerTest\obj\Debug\TCPServerTest.pdb

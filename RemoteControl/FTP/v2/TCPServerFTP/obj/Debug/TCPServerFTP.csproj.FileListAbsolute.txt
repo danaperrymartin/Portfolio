@@ -1,0 +1,11 @@
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\TCPServerFTP.csproj.AssemblyReference.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\TCPServerFTP.frmMain.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\TCPServerTest.Properties.Resources.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\TCPServerFTP.ucIPAddress.resources
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\TCPServerFTP.csproj.GenerateResource.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\TCPServerFTP.csproj.CoreCompileInputs.cache
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\bin\Debug\Listener.exe.config
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\bin\Debug\Listener.exe
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\bin\Debug\Listener.pdb
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\Listener.exe
+C:\CodeProjects\RemoteControl\FTP\v2\TCPServerFTP\obj\Debug\Listener.pdb

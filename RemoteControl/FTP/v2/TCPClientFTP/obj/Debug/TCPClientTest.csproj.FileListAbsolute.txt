@@ -1,0 +1,33 @@
+C:\Code Projects\TCPClientTest\bin\Debug\TCPClientTest.exe.config
+C:\Code Projects\TCPClientTest\bin\Debug\TCPClientTest.exe
+C:\Code Projects\TCPClientTest\bin\Debug\TCPClientTest.pdb
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.frmMain.resources
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.Properties.Resources.resources
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.ucIPAddress.resources
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.csproj.GenerateResource.cache
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.csproj.CoreCompileInputs.cache
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.exe
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.pdb
+C:\Code Projects\TCPClientTest\obj\Debug\TCPClientTest.csproj.AssemblyReference.cache
+C:\Code Projects\RemoteControl\brian\TCPClientTest\bin\Debug\TCPClientTest.exe.config
+C:\Code Projects\RemoteControl\brian\TCPClientTest\bin\Debug\TCPClientTest.exe
+C:\Code Projects\RemoteControl\brian\TCPClientTest\bin\Debug\TCPClientTest.pdb
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.csproj.AssemblyReference.cache
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.frmMain.resources
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.Properties.Resources.resources
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.ucIPAddress.resources
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.csproj.GenerateResource.cache
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.csproj.CoreCompileInputs.cache
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.exe
+C:\Code Projects\RemoteControl\brian\TCPClientTest\obj\Debug\TCPClientTest.pdb
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\bin\Debug\TCPClientTest.exe.config
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\bin\Debug\TCPClientTest.exe
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\bin\Debug\TCPClientTest.pdb
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.csproj.AssemblyReference.cache
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.frmMain.resources
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.Properties.Resources.resources
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.ucIPAddress.resources
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.csproj.GenerateResource.cache
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.csproj.CoreCompileInputs.cache
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.exe
+C:\CodeProjects\RemoteControl\FromBrian\TCPClientTest\obj\Debug\TCPClientTest.pdb
