@@ -163,11 +163,11 @@ def SeparateOrientations(TPD_DataList):
     return tmp
 
 def SendEmail(CatastrophicFailures,Site,filenames):
-    # port = 25  # For SSL
-    # smtp_server = "192.168.0.2"
-    # sender_email = "SiteMonitor@prorailtech.com"
+    # port =   # For SSL
+    # smtp_server = ""
+    # sender_email = ""
     # receiver_email = "danam@prorailtech.com"
-    # password = "Prt12345"
+    # password = ""
     
     # message = """\
     # Subject: Hi there
@@ -179,13 +179,13 @@ def SendEmail(CatastrophicFailures,Site,filenames):
     #     server.login(sender_email, password)
     #     server.sendmail(sender_email, receiver_email, message)
         
-    port = 25  # For SSL
-    smtp_server = "96.69.156.94" #Global
-    # smtp_server = "192.168.0.2" #Local
+    port =   # For SSL
+    smtp_server = "" #Global
+    # smtp_server = "" #Local
     adminaddress = "SiteMonitor@prorailtech.com"
-    password = "Prt12345"
-    fromaddr = "danam@prorailtech.com"
-    recipients = ['danam@prorailtech.com']#,'michaelr@prorailtech.com','brianb@prorailtech.com','stevem@prorailtech.com']
+    password = ""
+    fromaddr = ""
+    recipients = ['']#,'michaelr@prorailtech.com','brianb@prorailtech.com','stevem@prorailtech.com']
     
     for irecipient in recipients:
         # instance of MIMEMultipart 
